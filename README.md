@@ -1,4 +1,5 @@
-Hostel Performance Management | Power BI Project
+Hostel Performance Management 
+## Power BI Project
 Designed and implemented a comprehensive Power BI dashboard to analyze and optimize hostel operations using interactive visualizations and dynamic reports. The solution enabled real-time monitoring across key hostel performance metrics.
 Key Features & Functionalities:
 Data Integration & Transformation:
@@ -23,10 +24,9 @@ Monitored usage across fans, coolers, ACs, and gyms.
 Month-wise average power consumed vs cost using combo chart.
 Tools & Technologies Used:
 Power BI (DAX, Power Query, Slicers, Filters, Visual Customization)
-Excel (Data Source & Modeling)
+## Excel (Data Source & Modeling) - <a href="https://github.com/LakshmikeerthanaB/Powerbi_Data_Analysis/blob/main/Hostel_Data.xlsx">Hostel_Data</a>
 Microsoft Fabric (To showcase our dashoard)
 Custom Themes and Visual Formatting for UX
-
 Impact:
 Enabled hostel administrators to make data-driven decisions by simplifying complex data into interactive dashboards, improving visibility into occupancy, cost, and resource management.
 
